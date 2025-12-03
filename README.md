@@ -12,8 +12,6 @@
 
 ---
 
-## 🛠️ Tech Stack  
-
 ## 🧰 Languages & Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=plastic)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=plastic)
