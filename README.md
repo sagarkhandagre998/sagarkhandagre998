@@ -43,10 +43,7 @@
 <a href="https://www.linkedin.com/in/sagar-khandagre-473741377/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
 </a>
-<a href="sagar.khandagre998@gmail.com">
-  <img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail" />
-</a>
-</p>
+[![Gmail](https://img.shields.io/badge/Gmail-Email-red)](mailto:sagar.khandagre998@gmail.com)
 
 ---
 
