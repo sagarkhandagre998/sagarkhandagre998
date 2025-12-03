@@ -13,20 +13,17 @@
 ---
 
 ## 🛠️ Tech Stack  
-### **Languages**
-- Java · Rust · SQL         
 
-### **Backend**
-- Spring Boot · Hibernate · REST APIs · Microservices  
+## 🧰 Languages & Tools
 
-### **Database**
-- MySQL · PostgreSQL • MongoDB •Redis 
-
-### **Tools & DevOps**
-- Git · GitHub · Docker · GitHub Actions · Postman  
-
-### **Cloud**
-- AWS (EC2, S3, Lambda basics), Azure 
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com)  
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)  
+[![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)](https://hibernate.org)  
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org)  
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)  
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)  
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)  
+[![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com)
 
 ---
 
