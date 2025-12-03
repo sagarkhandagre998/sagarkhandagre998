@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sagar</h1>
+<h1 align="center">Hi 👋, I'm Sagar Khandagre</h1>
 <h3 align="center">Passionate Software Developer | Backend Focus | Always Learning 🚀</h3>
 
 ---
