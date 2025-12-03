@@ -26,6 +26,8 @@
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=plastic)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+
 
 ---
 
@@ -43,8 +45,10 @@
 <a href="https://www.linkedin.com/in/sagar-khandagre-473741377/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
 </a>
-[![Gmail](https://img.shields.io/badge/Gmail-Email-red)](mailto:sagar.khandagre998@gmail.com)
-
+<a href="sagar.khandagre998@gmail.com">
+  <img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail" />
+</a>
+</p>
 ---
 
 ## ⭐ Fun Fact  
