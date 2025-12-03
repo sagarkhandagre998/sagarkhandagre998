@@ -4,55 +4,29 @@
 ---
 
 ## 🚀 About Me  
-- 🔭 I’m currently working on **[Your Project Name]**  
-- 🌱 Learning **Spring Boot, Docker, AWS, DevOps**  
+- 🔭 I’m currently working on this technologies - Rust,Java,SpringBoot,GenAi Automations, LLMS etc 
+- 🌱 Learning * GenAi Automations *  
 - 💡 I love building **scalable backend systems, REST APIs, and automation tools**  
 - 🎯 Goal: Become a **high-impact backend engineer**  
-- 📬 Reach me: **your-email@example.com**
+- 📬 Reach me: **sagar.khandagre998@gmail.com**
 
 ---
 
 ## 🛠️ Tech Stack  
 ### **Languages**
-- Java · JavaScript · Python (Beginner)  
+- Java · Rust · SQL         
 
 ### **Backend**
 - Spring Boot · Hibernate · REST APIs · Microservices  
 
-### **Frontend**
-- React · HTML · CSS · Bootstrap  
-
 ### **Database**
-- MySQL · PostgreSQL  
+- MySQL · PostgreSQL • MongoDB •Redis 
 
 ### **Tools & DevOps**
 - Git · GitHub · Docker · GitHub Actions · Postman  
 
 ### **Cloud**
-- AWS (EC2, S3, Lambda basics)
-
----
-
-## 📌 Featured Projects  
-
-### 🚀 **Project 1 – Awesome App Name**
-A short 1–2 line description of what the project does.  
-**Tech:** Spring Boot | MySQL | Docker  
-🔗 *Repo:* [Link](#)
-
----
-
-### 💡 **Project 2 – Frontend or Full-Stack App Name**  
-Describe the purpose of the project in simple words.  
-**Tech:** React | REST API  
-🔗 *Repo:* [Link](#)
-
----
-
-### 🧰 **Project 3 – Any Script/Automation/Tool**  
-Short and impactful explanation.  
-**Tech:** Python / Bash / Anything  
-🔗 *Repo:* [Link](#)
+- AWS (EC2, S3, Lambda basics), Azure 
 
 ---
 
@@ -67,10 +41,10 @@ Short and impactful explanation.
 
 ## 🌐 Connect With Me  
 <p align="left">
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="_blank">
+<a href="https://www.linkedin.com/in/sagar-khandagre-473741377/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
 </a>
-<a href="mailto:your-email@example.com">
+<a href="sagar.khandagre998@gmail.com">
   <img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail" />
 </a>
 </p>
