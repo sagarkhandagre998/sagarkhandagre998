@@ -4,8 +4,9 @@
 ---
 
 ## 🚀 About Me  
-- 🔭 I’m currently working on this technologies - Rust,Java,SpringBoot,GenAi Automations, LLMS etc 
-- 🌱 Learning * GenAi Automations *  
+- 🔭 I’m currently working on this technologies - Rust,Java,SpringBoot,GenAi Automations, LLMS, Block Chain, Ethereum Layered Architecture - Consensus/Execution Clients etc 
+- 🌱 Learning * GenAi Automations *
+- 🌱 Learning * Block Chain Technology - Core Ethereum Execution Client - Besu etc *
 - 💡 I love building **scalable backend systems, REST APIs, and automation tools**  
 - 🎯 Goal: Become a **high-impact backend engineer**  
 - 📬 Reach me: **sagar.khandagre998@gmail.com**
