@@ -52,7 +52,7 @@ _"Every bug I fix increases my love for coding… and my hate for bugs."_ 😄
 
 ### 🧩 Profile Views  
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=ProfileViews&color=0e75b6&style=flat" alt="views" />
 </p>
 
 
