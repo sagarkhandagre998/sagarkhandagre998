@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sagar Khandagre</h1>
-<h3 align="center">Passionate Software Developer | Backend Focus | Always Learning 🚀</h3>
+<h3 align="center">Passionate Software Dev | Security Researcher | Always Learning 🚀</h3>
 <h3 align="center"> Block Chain | Security Domain | Gen AI Automations 🚀</h3>
 
 ---
