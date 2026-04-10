@@ -43,7 +43,7 @@
   <img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail" />
 </a>
 <a href="https://leetcode.com/u/sagar897//" target="_blank">
-  <img src="https://img.shields.io/badge/Leetcode-blue?style=for-the-badge&logo=leetcode" />
+  <img src="https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=leetcode" />
 </a>
 </p>
 ---
