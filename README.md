@@ -4,11 +4,11 @@
 
 <p align="left">My name is sagar, 🧠 Curious About Workflows's Present, Building Toward Workflows's Future. </p>
 <p align="left"> 
-• Exploring Workflow Orchestration & Automation <br>
-• Learning Event-Driven Systems & Distributed Architectures <br>
-• Interested in Data, Infrastructure & AI Workflows <br>
-• Open Source Contributor <br>
-• Building Reliable Workflows, Learning Every Day</p>
+• Exploring Workflow Orchestration & Automation.  <br>
+• Learning Event-Driven Systems & Distributed Architectures. <br>
+• Interested in Data, Infrastructure & AI Workflows. <br>
+• Open Source Contributor. <br>
+• Building Reliable Workflows, Learning Every Day. </p>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Fixing bugs since my first "Hello World"<br> 🎯 Goals: To Fill life with green dots and meaningful contributions. <br>🎲 Fun fact: I enjoy diving into large codebases to understand how things work under the hood</p>
+<p align="left">✨ Fixing bugs since my first "Hello World". <br> 🎯 Goals: To Fill life with green dots and meaningful contributions. <br>🎲 Fun fact: I enjoy diving into large codebases to understand how things work under the hood. </p>
 
 ###
 
