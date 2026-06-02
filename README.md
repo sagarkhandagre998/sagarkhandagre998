@@ -2,7 +2,13 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is sagar, 🧠 Curious About Ethereum's Present, Building Toward Ethereum's Future</p>
+<p align="left"> 
+Ethereum ecosystem
+Execution clients
+Rollups (Linea-inspired work)
+Infrastructure engineering
+Open-source contributions  </p>
 
 ###
 
