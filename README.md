@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is sagar, Contributing to complex systems - workflow orchestration, Ethereum clients.  
+<p align="left">My name is Sagar, contributing to complex systems - workflow orchestration, Ethereum clients.  
   <br> 🧠 Curious About Workflows's Present, Building Toward Workflows's Future. </p>
 <p align="left"> 
 • Exploring Workflow Orchestration, Automation & Ethereum Ecosystem. <br>
