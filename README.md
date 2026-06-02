@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ bugs since my first "Hello World"<br>📚 I'm currently learning ...<br>🎯 Goals: TFill life with green dots and meaningful contributions.<br>🎲 Fun fact:I enjoy diving into large codebases to understand how things work under the hood</p>
 
 ###
 
