@@ -4,11 +4,11 @@
 
 <p align="left">My name is sagar, 🧠 Curious About Ethereum's Present, Building Toward Ethereum's Future. </p>
 <p align="left"> 
-Ethereum ecosystem
-Execution clients
-Rollups (Linea-inspired work)
-Infrastructure engineering
-Open-source contributions  </p>
+• Exploring Ethereum Internals<br>
+• Learning Execution Clients & Protocol Architecture<br>
+• Interested in Rollups, L2s & Scaling Solutions<br>
+• Open Source Contributor<br>
+• Building in Public, Learning Every Day </p>
 
 ###
 
