@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ bugs since my first "Hello World"<br> 🎯 Goals: To Fill life with green dots and meaningful contributions. <br>🎲 Fun fact: I enjoy diving into large codebases to understand how things work under the hood</p>
+<p align="left">✨ Fixing bugs since my first "Hello World"<br> 🎯 Goals: To Fill life with green dots and meaningful contributions. <br>🎲 Fun fact: I enjoy diving into large codebases to understand how things work under the hood</p>
 
 ###
 
