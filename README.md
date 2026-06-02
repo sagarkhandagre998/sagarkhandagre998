@@ -2,13 +2,13 @@
 
 ###
 
-<p align="left">My name is sagar, 🧠 Curious About Ethereum's Present, Building Toward Ethereum's Future. </p>
+<p align="left">My name is sagar, 🧠 Curious About Workflows's Present, Building Toward Workflows's Future. </p>
 <p align="left"> 
-• Exploring Ethereum Internals<br>
-• Learning Execution Clients & Protocol Architecture<br>
-• Interested in Rollups, L2s & Scaling Solutions<br>
-• Open Source Contributor<br>
-• Building in Public, Learning Every Day </p>
+• Exploring Workflow Orchestration & Automation <br>
+• Learning Event-Driven Systems & Distributed Architectures <br>
+• Interested in Data, Infrastructure & AI Workflows <br>
+• Open Source Contributor <br>
+• Building Reliable Workflows, Learning Every Day</p>
 
 ###
 
