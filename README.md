@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is sagar, 🧠 Curious About Ethereum's Present, Building Toward Ethereum's Future</p>
+<p align="left">My name is sagar, 🧠 Curious About Ethereum's Present, Building Toward Ethereum's Future. </p>
 <p align="left"> 
 Ethereum ecosystem
 Execution clients
