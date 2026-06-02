@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ bugs since my first "Hello World"<br>📚 I'm currently learning ...<br>🎯 Goals: TFill life with green dots and meaningful contributions.<br>🎲 Fun fact:I enjoy diving into large codebases to understand how things work under the hood</p>
+<p align="left">✨ bugs since my first "Hello World"<br> 🎯 Goals: To Fill life with green dots and meaningful contributions. <br>🎲 Fun fact: I enjoy diving into large codebases to understand how things work under the hood</p>
 
 ###
 
@@ -31,9 +31,7 @@
   <img src="https://skillicons.dev/icons?i=spring" height="60" alt="spring logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cpp logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="60" alt="my logo"  />
-  <img width="12" />
+   <img width="12" />
   <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
