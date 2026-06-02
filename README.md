@@ -1,61 +1,46 @@
-<h1 align="center">Hi 👋, I'm Sagar Khandagre</h1>
-<h3 align="center">Passionate Software Dev | Security Researcher | Always Learning 🚀</h3>
-<h3 align="center"> Block Chain | Security Domain | Gen AI Automations 🚀</h3>
+<h1 align="center">Hey Devs 👋, How you doing ?  </h1>
 
----
+###
 
-## 🚀 About Me  
-- 🔭 I’m currently working on this technologies - Rust,Java,SpringBoot,GenAi Automations, LLMS, Block Chain, Ethereum Layered Architecture - Consensus/Execution Clients etc 
-- 🌱 Learning * GenAi Automations *
-- 🌱 Learning * Block Chain Technology - Core Ethereum Execution Client - Besu etc *
-- 💡 I love building **scalable backend systems, REST APIs, and automation tools**  
-- 🎯 Goal: Become a **high-impact backend engineer**  
-- 📬 Reach me: **sagar.khandagre998@gmail.com**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=spring" height="60" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cpp logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="60" alt="my logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
+  </div>
 
----
+###
 
-## 🧰 Languages & Tools
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=plastic)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=plastic)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=plastic)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=plastic)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=plastic)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=plastic)
-![MSSQL](https://img.shields.io/badge/-MSSQL-CC2927?logo=microsoft-sql-server&logoColor=white&style=plastic)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=plastic)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=plastic)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+</div>
 
+###
 
----
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
+</div>
 
+###
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg">
+</picture>
 
-## 🌐 Connect With Me  
-<p align="left">
-<a href="https://www.linkedin.com/in/sagar-khandagre-473741377/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-</a>
-<a href="sagar.khandagre998@gmail.com">
-  <img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail" />
-</a>
-<a href="https://leetcode.com/u/sagar897//" target="_blank">
-  <img src="https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=leetcode" />
-</a>
-</p>
----
-
-## ⭐ Fun Fact  
-_"Every bug I fix increases my love for coding… and my hate for bugs."_ 😄
-
----
-
-### 🧩 Profile Views  
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=ProfileViews&color=0e75b6&style=flat" alt="views" />
-</p>
-
-
+###
