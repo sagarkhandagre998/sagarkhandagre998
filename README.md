@@ -20,7 +20,7 @@
 
 ###
 
-<h2 align="left">Strenths </h2>
+<h2 align="left">Strengths </h2>
 
 ###
 
