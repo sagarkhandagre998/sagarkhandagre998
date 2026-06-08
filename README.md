@@ -36,6 +36,8 @@
    <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
   <img width="12" />
    <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
+  <img width="12" />
+   <img src="https://skillicons.dev/icons?i=kubernetes" height="60" alt="kubernetes logo"  />
   </div>
 
 
