@@ -2,7 +2,7 @@
 <img width="1578" height="414" alt="ChatGPT Image Jul 14, 2026, 02_57_54 PM (1)" src="https://github.com/user-attachments/assets/d4b96df5-0184-492d-adf5-cea48c97d1e6" />
 
 
-<h2 align="left">I Fly Around AI Governance and AI Automation </h2>
+<h2 align="left">I Fly Around AI Governance and Automation </h2>
 
 ###
 
