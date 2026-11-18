@@ -16,7 +16,7 @@
 ###
 
 <h4> Every system deserves a defender. My job is to make attackers regret knocking on the door.</h4>
-<p align="left">✨ Fixing bugs since my first "Hello World". <br> 🎯 Goals: To be in the list of top security researchers in the world. <br>🎲 Fun fact: I enjoy diving into large codebases to understand how things work under the hood. <br>  🧠 Curious About AI's Present, Building Toward AI's Future.</p>
+<p align="left">✨ Fixing bugs since my first "Hello World". <br> 🎲 Fun fact: I enjoy diving into large codebases to understand how things work under the hood. <br>  🧠 Curious About AI's Present, Building Toward AI's Future.</p>
 
 ###
 
